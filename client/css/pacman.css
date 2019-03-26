@@ -366,9 +366,9 @@ h3 {
 
 
 @media screen and (min-height:1200px), screen and (min-device-height : 1200px) { 
-	/* #panel, #home { 
+	#panel, #home { 
 		zoom: 135%;
-	} */
+	}
 	#control-up-big, #control-down-big, #control-left-big, #control-right-big { 
 		display: inline; 
 	} 
@@ -381,6 +381,9 @@ h3 {
 	/* #panel, #home { 
 		zoom: 105%;
 	} */
+	#panel, #home { 
+		zoom: 135%;
+	}
 	#control-up-big, #control-down-big, #control-left-big, #control-right-big { 
 		display: inline; 
 	} 
@@ -390,6 +393,9 @@ h3 {
 	/* #panel, #home { 
 		zoom: 60%;
 	} */
+	#panel, #home { 
+		zoom: 135%;
+	}
 	#control-up-big, #control-down-big, #control-left-big, #control-right-big { 
 		display: inline; 
 	} 
@@ -404,6 +410,9 @@ h3 {
 	/* #panel, #home { 
 		zoom: 55%;
 	} */
+	#panel, #home { 
+		zoom: 135%;
+	}
 	#control-up-big, #control-down-big, #control-left-big, #control-right-big { 
 		display: inline; 
 	} 
