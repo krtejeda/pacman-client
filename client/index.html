@@ -198,7 +198,7 @@
 			jQuery('body').trigger(e);
 		}
 		$(document).ready(function () {
-			var socket = io('http://localhost:3000');
+			var socket = io('https://mysterious-ravine-74621.herokuapp.com');
 			socket.on('connect', () => {
 				socket.emit('init_player');
 			});
